@@ -1,4 +1,4 @@
-FROM debian:sid
+FROM debian:buster-20191014
 
 COPY entrypoint.sh /scripts/entrypoint.sh
 
